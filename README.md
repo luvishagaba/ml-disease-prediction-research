@@ -17,4 +17,5 @@ Logistic Regression, Decision Tree, Random Forest, SVM, Naive Bayes, KNN, XGBoos
 Python 3.10 · Scikit-learn · XGBoost · SMOTE · Pandas · NumPy · Matplotlib · Jupyter Notebook
 
 ## Read the Paper
-[📄 View Full Research Paper (PDF)](./Final_Research_Paper.pdf)
+[📄 View Full Research Paper (PDF)](./Final%20Research%20Paper%20(9).pdf)
+
